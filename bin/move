@@ -19,3 +19,6 @@ move(board, index)
 #move(board, input_to_index(input))
 
 display_board(board)
+
+
+# why do I have to define line 15?  shouldnt that already be in move.rb?
