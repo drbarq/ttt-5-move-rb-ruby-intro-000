@@ -1,3 +1,8 @@
+#We'll be writing our #display_board, #input_to_index and #move methods in lib/move.rb 
+#and writing the code that interacts with the command line in the bin/move file.
+
+
+
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
   puts "-----------"
